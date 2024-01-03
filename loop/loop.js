@@ -17,7 +17,7 @@ function forloop() {
 let arrays = ["surbhi", "shrikar", "komal", "bhavyesh", "vivek"]
 for (const a in arrays) {
 
-    console.log(a)
+    console.log(a);
 }
 
 for (const a of arrays) {
