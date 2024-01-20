@@ -1,0 +1,19 @@
+.s1{
+    background-color: blueviolet;
+    font-size: 30px;
+    border: 10px solid black;
+}
+.s2{
+    text-align: right;
+    color: blanchedalmond;
+    padding: 50px 50px;
+}
+.pass{
+    background-color: green;
+    font-size: 20px;
+    
+}
+.fail{
+    background-color: red;
+    font-size: 20px;
+}
